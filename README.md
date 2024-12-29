@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimitrios Bouzoulas</h1>
 
 <p align="center">
-    <img src="./assets/robot.gif" width="280" height="auto" />
+    <img src="./assets/bender.gif" width="280" height="auto" />
 </p>
 
 
