@@ -22,7 +22,7 @@
  
 <summary><h2>:octocat: My Top Open Source Projects</h2></summary>
 
-<p align="left">
+<p align="center">
   <!-- Example: This card is for your "Qlearning-Pong-Workshop-in-Cpp" repo -->
     <a href="https://github.com/BouzoulasDimitrios/Qlearning-Pong-Workshop-in-Cpp">
     <img
